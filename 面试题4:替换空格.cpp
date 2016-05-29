@@ -52,7 +52,6 @@ void ReplaceBlank(char string[], int length)
         else
             string[i] = string[j];
     }
-    cout << string << endl;
 }
 
 int main()
